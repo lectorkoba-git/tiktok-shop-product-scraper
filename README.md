@@ -2,7 +2,7 @@
 
 [![TikTok Shop Product Scraper](https://apify.com/actor-badge?actor=magic-scraper/tiktok-shop-product-scraper)](https://apify.com/magic-scraper/tiktok-shop-product-scraper)
 ![Free Tier](https://img.shields.io/badge/Apify%20Free%20Tier-$5%20Monthly%20Credit-blue?style=flat-square)
-![Pay-Per-Result](https://img.shields.io/badge/Pricing-$2.00%20%2F%201K%20results-blue?style=flat-square)
+![Pay-Per-Result](https://img.shields.io/badge/Pricing-$3.00%20%2F%201K%20results-blue?style=flat-square)
 ![No Cookies Required](https://img.shields.io/badge/Cookies-Not%20Required-success?style=flat-square)
 ![Export](https://img.shields.io/badge/Export-JSON%20|%20CSV%20|%20Excel-orange?style=flat-square)
 
@@ -24,7 +24,7 @@ Python and Node.js examples for the **[TikTok Shop Product Scraper](https://apif
 
 | | |
 | :--- | :--- |
-| **Pricing** | $2.00 per 1,000 products + $0.00005 start fee; reviews come inside the product record at no extra charge |
+| **Pricing** | $3.00 per 1,000 products + $0.00005 start fee; reviews come inside the product record at no extra charge |
 | **Run time (measured)** | ~3–20 s for one product with 5 reviews |
 | **Inventory** | Numeric `stock` per SKU and `total_stock` |
 | **How it works** | HTTP requests with browser TLS impersonation, server-rendered page data, no headless browser |
